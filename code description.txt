@@ -1,0 +1,26 @@
+Emergency Room Management System
+.Project Overview
+An innovative C-based solution designed to optimize emergency room operations through intelligent patient prioritization and resource management. The system addresses critical challenges in healthcare delivery by:
+
+-Implementing an advanced triage algorithm
+-Dynamically calculating patient priority scores
+-Tracking medical resources in real-time
+-Reducing patient wait times
+-Ensuring fair and efficient patient care
+
+.Key Features
+
+-Automated patient prioritization
+-Real-time medical resource tracking
+-Detailed patient information management
+-Objective medical triage process
+-Resource allocation optimization
+
+.Technical Highlights
+
+-Developed in C programming language
+-Custom priority queue implementation
+-Multi-criteria patient assessment algorithm
+-Efficient medical resource management system
+
+Developed to improve emergency healthcare efficiency and patient outcomes.
